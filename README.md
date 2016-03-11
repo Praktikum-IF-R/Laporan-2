@@ -1,12 +1,12 @@
 # Laporan-2
 
-Cara Mengumpulkan
-1. Fork repository
-2. Clone repository ke komputer setelah download aplikasi github
-3. Ubah isi repository yang ada di komputer anda dengan jawaban anda
-4. Commit dengan sumary NIM_Nama
-5. Push/sync
-6. Create a pull request untuk mengumpulkan format NIM_NAMA 
+Cara Mengumpulkan <br />
+1. Fork repository <br />
+2. Clone repository ke komputer setelah download aplikasi github <br />
+3. Ubah isi repository yang ada di komputer anda dengan jawaban anda <br />
+4. Commit dengan sumary NIM_Nama <br />
+5. Push/sync <br />
+6. Create a pull request untuk mengumpulkan format NIM_NAMA  <br />
 
-Yang di kumpulkan hanya source code atau file projectnya
+Yang di kumpulkan hanya source code atau file projectnya <br />
 
